@@ -1,0 +1,2 @@
+# stm32_freertos_watch
+stm32智能手表开源项目的学习记录
